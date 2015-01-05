@@ -1,4 +1,4 @@
 GitMyTest1
 ==========
 
-A test
+This is just a test of GitHub!
